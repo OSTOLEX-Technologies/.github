@@ -6,6 +6,6 @@ Started on NEAR Hack in Kyiv in December 2021 we fell in love with NEAR and its 
 
 Our magnum opus right now is the Castledice. It's a turn-based board strategy game, early alfa soon. 
 
-Another thing we started working on is building a gaming ecosystem on near.social.
+Another thing we started working on is building a gaming ecosystem on the Blockchain Operating System.
 
 We are working both on various different games, such as [Laser Chess](https://near.social/#/let45fc.near/widget/LaserChess3D), and a [Gamedev Framework](https://near.org/ostolex.near/widget/Gamedev).
