@@ -1,6 +1,6 @@
 # OSTOLEX
 
-OSTOLEX is a development studio from Kharkiv, Ukraine. We mostly build blockchain games, but not only.
+OSTOLEX is a development studio from Kharkiv, Ukraine. We mostly build blockchain games, but we are not limited to them only
 
 Started on NEAR Hack in Kyiv in December 2021 we fell in love with NEAR and its community. We have a huge passion for building projects and have participated in numerous hackathons.
 
